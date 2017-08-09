@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+
+	<head>
+
+		<title>Hello World!</title>
+
+		  <meta charset="utf-8" />
+    	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    	<meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+
+	</head>
+
+	<body>
+
+
+		<h1>Hello World!</h1>
+
+		<h2>A few facts about self-care, self-compassion, and how our lives are made better, together!</h2>
+
+		<img src="be-kind-to-yourself.png" width="300" />
+
+		<hr>
+
+		<h1>Pursue your goals with the Rosenberg Formula</h1>
+
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/EKy19WzkPxE" frameborder="0" allowfullscreen></iframe>
+
+	<div>
+		<table>
+			<thead>
+				<tr>
+					<th>The<br><ins>Formula</ins></th>
+					<th>Uncomfortable<br><ins>Feelings</ins></th>
+					<th>The<br><ins>Method</ins></th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td><ul>
+						<li><strong>1 Choice</strong></li>
+						<li><strong>8 Feelings</strong></li>
+						<li><strong>90 Seconds</strong></li>
+					</ul></td>
+
+					<td>
+						<ul>
+							<li>Sadness</li>
+							<li>Shame</li>
+							<li>Helplessness</li>
+							<li>Anger</li>
+							<li>Vulnerability</li>
+							<li>Embarrassment</li>
+							<li>Disappointment</li>
+							<li>Frustration</li>
+						</ul>
+					</td>
+
+					<td>
+						<ul>
+							<li>Wait 60-90 seconds</li>
+							<li>Let the feeling subside</li>
+							<li>Stay present with the experience</li>
+							<li>Insights will follow</li>
+						</ul>
+					</td>
+				</tr>
+			</tbody>
+		</table>		
+	</div>
+
+	<div>
+		<hr>
+
+		<h2>Ways to Practice Self-Compassion</h2>
+		<ol>
+			<li><strong>Comfort your body</strong></li>
+				<p><em>Eat something healthy. Lie down and rest. Massage your own neck, feet, or hands. Take a walk. Anything you can do to improve how you feel physically gives you a dose of self-compassion.</em></p>
+			<li><strong>Write a letter to yourself</strong></li>
+				<p><em>Think of a situation that caused you to feel pain (a breakup with a lover, a job loss, a poorly received presentation). Write a letter to yourself describing the situation, but without blaming anyone — including yourself. Use this exercise to nurture your feelings.</em></p>
+			<li><strong>Give yourself encouragement</strong></li>
+				<p><em>Think of what you would say to a good friend if he or she was facing a difficult or stressful situation. Then, when you find yourself in this kind of situation, direct these compassionate responses toward yourself.</em></p>
+			<li><strong>Practice mindfullness</strong></li>
+				<p><em>Even a quick exercise, such as meditating for a few minutes, can be a great way to nurture and accept ourselves while we're in pain.</em></p>
+		</ol>
+		<hr>
+	</div>
+
+	
+
+	</body>
+
+
+</html>
